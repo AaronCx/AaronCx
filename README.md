@@ -23,3 +23,4 @@ Currently pursuing an M.S. in Computer Science at SNHU.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aaroncx.github.io-blue?style=flat)](https://aaroncx.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aaron_Character-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-character-13236227b/)
+

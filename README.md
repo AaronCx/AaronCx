@@ -1,7 +1,6 @@
 # Hey, I'm Aaron 
 
-Agentic AI engineer building production systems with LLMs, automation pipelines, and modern web stacks. I ship end-to-end — from OpenAI/LangChain integrations and Python backends to React frontends and CI/CD deployment.
-
+Agentic AI engineer
 
 ### Tech Stack
 

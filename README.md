@@ -1,6 +1,6 @@
 # Hey, I'm Aaron 
 
-Agentic AI engineer
+Full Stack Agentic AI engineer
 
 ### Tech Stack
 

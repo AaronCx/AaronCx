@@ -11,9 +11,20 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+### Featured Projects
+
+- **[Forge](https://github.com/AaronCx/Forge)** — multi-agent AI workflow platform with a visual blueprint editor and cross-platform computer use
+- **[LastGate](https://github.com/AaronCx/LastGate)** — pre-flight commit guardian for AI-generated code (GitHub App + dashboard + CLI)
+- **[NexaBase](https://github.com/AaronCx/NexaBase)** — deployable AI SaaS starter with auth, billing, and streaming chat
+- **[Anomaly](https://github.com/AaronCx/anomaly)** — codebase X-ray that renders any repo as a force graph
+- **[RepoRadar](https://github.com/AaronCx/reporadar)** — visual GitHub profile analyzer
+- **[TaskFlow](https://github.com/AaronCx/taskflow)** — Spring Boot 3 + React task manager with Kafka pipelines
+- **[a+ Terminal](https://github.com/AaronCx/a-plus-terminal)** — privacy-first iOS SSH terminal
 
 ### Links
 

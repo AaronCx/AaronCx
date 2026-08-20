@@ -27,6 +27,10 @@
 - **[RepoRadar](https://github.com/AaronCx/reporadar)** — visual GitHub profile analyzer
 - **[TaskFlow](https://github.com/AaronCx/taskflow)** — Spring Boot 3 + React task manager with Kafka pipelines
 
+### Selected private work
+
+- **browserhitch** — local-first MCP browser bridge for AI agents: fresh launches, act-as-me sessions, stealth, and Safari behind one ref-based snapshot contract (private; happy to walk through it)
+
 ### Links
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aaroncx.github.io-blue?style=flat)](https://aaroncx.github.io/Portfolio/)

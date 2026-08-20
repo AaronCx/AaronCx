@@ -18,13 +18,14 @@
 
 ### Featured Projects
 
+- **[a+Terminal](https://github.com/AaronCx/a-plus-terminal)** — privacy-first iOS SSH terminal built around tmux and CLI AI coding agents — [live on the App Store](https://apps.apple.com/app/id6779393452)
+- **[meshyy](https://github.com/AaronCx/meshyy)** — clean-room resumable terminal transport in Swift (QUIC) that keeps a+Terminal sessions alive across disconnects
 - **[Forge](https://github.com/AaronCx/Forge)** — multi-agent AI workflow platform with a visual blueprint editor and cross-platform computer use
 - **[LastGate](https://github.com/AaronCx/LastGate)** — pre-flight commit guardian for AI-generated code (GitHub App + dashboard + CLI)
 - **[NexaBase](https://github.com/AaronCx/NexaBase)** — deployable AI SaaS starter with auth, billing, and streaming chat
 - **[Anomaly](https://github.com/AaronCx/anomaly)** — codebase X-ray that renders any repo as a force graph
 - **[RepoRadar](https://github.com/AaronCx/reporadar)** — visual GitHub profile analyzer
 - **[TaskFlow](https://github.com/AaronCx/taskflow)** — Spring Boot 3 + React task manager with Kafka pipelines
-- **[a+ Terminal](https://github.com/AaronCx/a-plus-terminal)** — privacy-first iOS SSH terminal
 
 ### Links
 

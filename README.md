@@ -20,16 +20,12 @@
 
 - **[a+Terminal](https://github.com/AaronCx/a-plus-terminal)** — privacy-first iOS SSH terminal built around tmux and CLI AI coding agents — [live on the App Store](https://apps.apple.com/app/id6779393452)
 - **[meshyy](https://github.com/AaronCx/meshyy)** — clean-room resumable terminal transport in Swift (QUIC) that keeps a+Terminal sessions alive across disconnects
-- **[Forge](https://github.com/AaronCx/Forge)** — multi-agent AI workflow platform with a visual blueprint editor and cross-platform computer use
-- **[LastGate](https://github.com/AaronCx/LastGate)** — pre-flight commit guardian for AI-generated code (GitHub App + dashboard + CLI)
+- **[monad](https://github.com/AaronCx/monad)**: one daemon for agentic coding and PR review. Any coding agent over ACP, sessions you can attach to from the CLI, an editor, or a phone. Successor to Forge and LastGate (in progress)
+- **[browserhitch](https://github.com/AaronCx/browserhitch)**: local-first MCP browser bridge for AI agents. Fresh launches, act-as-me sessions, stealth identities, and Safari behind one ref-based snapshot contract
 - **[NexaBase](https://github.com/AaronCx/NexaBase)** — deployable AI SaaS starter with auth, billing, and streaming chat
 - **[Anomaly](https://github.com/AaronCx/anomaly)** — codebase X-ray that renders any repo as a force graph
 - **[RepoRadar](https://github.com/AaronCx/reporadar)** — visual GitHub profile analyzer
 - **[TaskFlow](https://github.com/AaronCx/taskflow)** — Spring Boot 3 + React task manager with Kafka pipelines
-
-### Selected private work
-
-- **browserhitch** — local-first MCP browser bridge for AI agents: fresh launches, act-as-me sessions, stealth, and Safari behind one ref-based snapshot contract (private; happy to walk through it)
 
 ### Links
 
